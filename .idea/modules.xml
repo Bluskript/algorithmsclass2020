@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithmsclass.iml" filepath="$PROJECT_DIR$/algorithmsclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompleteme/autocompleteme.iml" filepath="$PROJECT_DIR$/autocompleteme/autocompleteme.iml" />
+    </modules>
+  </component>
+</project>
